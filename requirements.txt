@@ -1,4 +1,5 @@
 finance-datareader
+yfinance
 pandas
 numpy
 matplotlib
